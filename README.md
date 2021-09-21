@@ -12,8 +12,9 @@
 - [3-7 animate 範例](https://svelte.dev/repl/66f7e61aeafe48358d268cf8fb470514)
 - [3-8-1 具名 slot 範例](https://svelte.dev/repl/9e3094c985514023b52adf1a062ff37a)
 - [3-8-2 let 使用方式範例](https://svelte.dev/repl/3d5addf4a39849d0b60b24c648f29ae8)
+- [3-8-3 $$slots 使用方式介紹](https://svelte.dev/repl/dc877a55a75d40a298b335b1a72c8fc6)
 - [3-10-1 svelte:option 範例](https://svelte.dev/repl/2d80b3954d5445f2bc6c2ca33f817f3d)
-- [3-10-3 svelte:self 範例](https://svelte.dev/repl/23740b22deb34020987697a7f5145b92)
+- [3-10-2 svelte:self 範例](https://svelte.dev/repl/23740b22deb34020987697a7f5145b92)
 - [4-2 Client Side Routing](https://github.com/kjj6198/svelte-route-example)
 - [4-3 處理 API 與畫面互動](https://svelte.dev/repl/f146701b12ac4c2baecc8c962a178bbb)
 - [4-4 modal UI 實作](https://svelte.dev/repl/2db1f9d725e342e8bb08c8657ccae200)
@@ -23,4 +24,3 @@
 - [4-8 音樂播放器](https://svelte.dev/repl/5cf670ec8d434d7098723fe057dda04a)
 - [4-9 通知佇列]( https://svelte.dev/repl/84737077fc0348d090725e2b6dcb00cf)
 - [4-10 Tooltip](https://svelte.dev/repl/58058516ea844c46b7f6609334b52aed)
-
